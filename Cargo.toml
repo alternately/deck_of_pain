@@ -1,0 +1,7 @@
+[package]
+name = "deck_of_pain"
+version = "0.1.0"
+authors = ["Alternately <apgiuffre@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
